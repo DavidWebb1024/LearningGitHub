@@ -7,5 +7,6 @@ void main()
     int i=0;
     cin>>i;
     cout<<"You entered: "<<i<<endl;
+    
     system("pause");
 }
